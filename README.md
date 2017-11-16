@@ -43,3 +43,11 @@ MEL
 - Login
 - authentication
 - managing users
+
+Database Info:
+URL = "jdbc:derby://localhost:1527/xyzsystems"
+Username + password both are ""
+Make sure you name your database "xyzsystems" when you make it in your own test environment, otherwise we're gonna run into issues
+
+
+
