@@ -15,6 +15,7 @@
             <form action="/">
                 <table>
                     <tbody>
+                        <tr></tr>
                         <tr>
                             <td><label>Outstanding:</label></td>
                             <td><label>£100</label></td>
