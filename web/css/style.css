@@ -24,23 +24,22 @@ input {
 	border-radius: 5px; 
 	padding: 4px; 
 	font-size: 16px;
+        text-align: center;
 }
 
-.login {
+.btn {
 	font-weight: bold;
 	width: 130px; 
-	padding: 5px 10px; 
-	margin-top: 30px;
 	background: #cccccc;
 }
 
 table {   
 	border-style:none;
-	width:50%;
+	width:71%;
 }
 
 tr:nth-child(even) {background: #FFFFFF}
-tr:nth-child(odd) {background: #FFFFFF}
+tr:nth-child(odd) {background: #BBBBBB}
 
 tr {
 	border-style:none;

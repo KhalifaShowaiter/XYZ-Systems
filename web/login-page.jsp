@@ -1,9 +1,10 @@
-
 <!DOCTYPE html>
 <html>
     <head>
         <title>Login</title>
         <link type="text/css" rel="stylesheet" href="css/style.css">
+        <link type="text/css" rel="stylesheet" href="css/login-style.css">
+        
     </head>
     <body>
         <div id="wrapper">
@@ -26,7 +27,7 @@
                         </tr>
                         <tr>
                             <td><label></label></td>
-                            <td><input type="submit" value="Login" class="login"/></td>
+                            <td><input type="submit" value="Login" class="btn"/></td>
                         </tr>
                     </tbody>
                 </table>
