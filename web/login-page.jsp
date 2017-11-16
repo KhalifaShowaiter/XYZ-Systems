@@ -14,7 +14,8 @@
         </div>
         <div id="container">
             <h3>Login</h3>
-            <form action="/">
+            <!-- we only link to jsp now for testing -->
+            <form action="dashboard-user-page.jsp">
                 <table>
                     <tbody>
                         <tr>
@@ -32,6 +33,9 @@
                     </tbody>
                 </table>
             </form>
+            <br>
+            <!--note: we don't link to jsp, we link to controller class-->
+            <a href="signup-page.jsp">Sign Up</a>
         </div>
     </body>
 </html>
